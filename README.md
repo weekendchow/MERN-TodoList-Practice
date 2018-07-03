@@ -10,3 +10,7 @@ This is a TodoList App using MERN Stack.
 ## FrontEnd
 - [ReactJS](https://reactjs.org/)([create-react-app](https://github.com/facebook/create-react-app))
 - [Apollo Client](https://www.apollographql.com/)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/weekendchow/MERN-TodoList/blob/master/LICENSEd) file for details
