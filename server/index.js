@@ -6,12 +6,12 @@ const mongoose = require('mongoose');
 
 mongoose.connect('mongodb://localhost/test0');
 
+//schema
 const Todo = mongoose.model('Todo', {
   text: String,
   complete: Boolean
 });
 
-//schema
 const typeDefs = `
   type Query {
     hello(name: String): String!
