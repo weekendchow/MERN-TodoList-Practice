@@ -13,4 +13,4 @@ This is a TodoList App using MERN Stack.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/weekendchow/MERN-TodoList/blob/master/LICENSEd) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/weekendchow/MERN-TodoList-Practice/blob/master/LICENSE) file for details
